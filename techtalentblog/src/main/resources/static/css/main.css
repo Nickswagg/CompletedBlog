@@ -1,0 +1,47 @@
+html{
+    background-image: url("https://media.bizj.us/view/img/7994202/charlotte-skyline*1200xx2100-1181-0-105.jpg");;
+    padding: 0.5em 1em;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title
+{
+    font-size: 36px;
+    color: #db3c18;
+}
+.card-footer
+{
+    background: rgb(218,41,6);
+    background: linear-gradient(90deg, rgba(218,41,6,1) 0%, rgba(242,31,78,1) 43%, rgba(219,60,24,1) 100%);
+}
+.btn-secondary
+{
+    background-color: #000000;
+}
+.btn-secondary:hover
+{
+    background-color: #0082ff;
+}
+.btn-danger
+{
+    background-color: #ffffff;
+    color: #000000;
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+}
+.navbar-light .navbar-nav .active>.nav-link
+{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+}
+.card-title
+{
+    font-size: 36px;
+    color: #db3c18;
+}
